@@ -5,11 +5,11 @@ title: Critter Conga — Privacy Policy
 
 # Critter Conga — Privacy Policy
 
-*Last updated: September 29, 2026*
+*Last updated: September 30, 2026*
 
 ## TL;DR
 
-Critter Conga is a single-player game for all ages. Anthony Compofelice (the developer) does not operate a server and does not collect any personal information directly. Your game progress lives only on your device. Two third-party services are involved — Apple (App Store purchases) and Google (AdMob ads) — each governed by their own privacy policies linked below. The app never asks to track you and never uses your device’s advertising identifier.
+Critter Conga is a single-player game for all ages. Anthony Compofelice (the developer) does not operate a server and does not collect any personal information directly. Your game progress lives only on your device. Critter Conga is available on iPhone and Android. A few third-party services are involved — Google AdMob (ads) on both, Apple (App Store purchases) on iPhone, and Google Play (purchases and, if you use it, Play Games) on Android — each governed by their own privacy policies linked below. On iPhone the app never asks to track you and never uses the advertising identifier.
 
 ## What the developer collects
 
@@ -32,22 +32,28 @@ The age group is used to:
 
 Unless you purchase Remove Ads or the Parade Pass, Critter Conga shows a banner on the home screen and occasional ads between levels, served by Google AdMob. Optional reward videos (for a continue or double coins) are always your choice. Ads never appear while you are playing a level.
 
-- **No tracking.** The app does not show Apple’s “Allow Tracking” prompt and does not access the device advertising identifier (IDFA). Ads are therefore not personalized using cross-app tracking.
+- **iPhone: no tracking.** The app does not show Apple’s “Allow Tracking” prompt and does not access the device advertising identifier (IDFA). Ads are therefore not personalized using cross-app tracking.
+- **Android: advertising ID.** On Android, the AdMob SDK may read the Android advertising ID to serve and measure ads, except for players under 13, whose requests are child-directed. You can reset or delete the advertising ID, or opt out of ads personalization, in your device’s Settings → Privacy → Ads.
 - **What Google may collect** to deliver and measure ads: an app-specific device identifier, approximate location derived from your IP address, ad interactions, and crash and performance data.
 - **Players under 13.** Ad requests are tagged as child-directed and limited to content rated for general audiences, in line with the Children’s Online Privacy Protection Act (COPPA).
 - **EEA, UK and Switzerland.** You are asked for consent through Google’s consent form before ads load, and you can change your choice any time in Settings → Ad privacy choices.
 
 Google AdMob’s privacy policy: <https://policies.google.com/privacy>
 
-## Purchases — Apple StoreKit
+## Purchases — Apple App Store and Google Play
 
-In-app purchases (Remove Ads, Starter Pack, gem packs, holiday event passes, and the Parade Pass subscription) are processed by Apple’s StoreKit and the App Store. The developer never sees your payment information. Apple shares only a verified transaction record with the app, used to unlock the purchased content.
+In-app purchases (Remove Ads, Starter Pack, gem packs, holiday event passes, and the Parade Pass subscription) are processed by Apple’s StoreKit and the App Store on iPhone, and by Google Play Billing on Android. The developer never sees your payment information. The store shares only a purchase record with the app, used to unlock the purchased content.
 
 Apple’s privacy policy: <https://www.apple.com/legal/privacy/>
+Google’s privacy policy: <https://policies.google.com/privacy>
+
+## Leaderboards and achievements — Game Center and Google Play Games
+
+If you are signed in to Game Center (iPhone) or Google Play Games (Android), the app reports your level, critters rescued, best streak and achievements to that service so they appear on leaderboards. This is handled by Apple or Google under their own privacy policies, and you can sign out or hide your profile in their settings. The app works fully without signing in.
 
 ## Children’s privacy (COPPA)
 
-Critter Conga is designed to be enjoyed by all ages and does not knowingly collect personal information from children. Players who say they are under 13 get child-directed ad settings and a grown-up check before any purchase or outside link. Parents can also turn on Ask to Buy in Family Sharing and use Screen Time to restrict in-app purchases.
+Critter Conga is designed to be enjoyed by all ages and does not knowingly collect personal information from children. Players who say they are under 13 get child-directed ad settings and a grown-up check before any purchase or outside link. Parents can also turn on Ask to Buy in Family Sharing and use Screen Time (iPhone), or require purchase approval and set controls with Google Family Link and Google Play parental controls (Android).
 
 ## Your rights
 
