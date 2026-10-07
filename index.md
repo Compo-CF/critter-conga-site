@@ -7,7 +7,7 @@ title: Critter Conga
 
 > Classic Snake, reborn as a parade. Lead Noodle the caterpillar through endless worlds and rescue every critter you meet.
 
-Critter Conga is a colorful single-player game for iPhone, made for all ages. Every critter you gobble joins the conga line behind you. Clear levels, collect 75 critters in your album, keep your daily streak, and celebrate the holidays with special parades.
+Critter Conga is a colorful single-player game for iPhone and Android, made for all ages. Every critter you gobble joins the conga line behind you. Clear levels, collect 75 critters in your album, keep your daily streak, and celebrate the holidays with special parades.
 
 ---
 
@@ -19,7 +19,7 @@ Critter Conga is built solo by an indie developer. Found a bug, have an idea, or
 - **Purchases and refunds** — handled by Apple at <https://reportaproblem.apple.com>
 - **Restore purchases** — Shop → Restore purchases, or Settings → Restore purchases
 
-When reporting a bug, please include your iPhone model, iOS version, and the level number.
+When reporting a bug, please include your phone model, its iOS or Android version, and the level number.
 
 ---
 
