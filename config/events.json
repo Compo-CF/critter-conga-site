@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-02",
+  "updated": "2026-11-23",
   "note": "Critter Conga holiday event windows (inclusive, local dates). Apps fetch this at launch and fall back to built-in dates. Add or move a window here instead of shipping an update; set disabled to hide an event.",
   "disabled": [],
   "events": {
@@ -139,7 +139,7 @@
     "newYear": [
       {
         "start": "2026-12-30",
-        "end": "2027-01-03"
+        "end": "2027-01-31"
       },
       {
         "start": "2027-12-30",
